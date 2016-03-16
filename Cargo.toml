@@ -9,4 +9,4 @@ keywords = ["audio", "osc", "opensoundcontrol"]
 repository = "https://github.com/wrl/tinyosc"
 
 [dependencies]
-byteorder = "*"
+byteorder = "< 0.5.0"
